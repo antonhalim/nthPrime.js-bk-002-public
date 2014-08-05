@@ -1,6 +1,10 @@
 {
   "name": "prime",
   "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:flatiron-school-curriculum/nthPrime.js.git"
+  },
   "description": "nth Prime",
   "dependencies": {
     "grunt": "~0.4.1",
